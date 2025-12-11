@@ -1,1 +1,1 @@
-# LearnDay09-Terraform-AWS
+# AWS Terraform Lifecycle Rules Practice
